@@ -182,3 +182,7 @@
   font-size: 16px;
   line-height: 1.87;
 }
+
+.project .link {
+  text-decoration: none;
+}
