@@ -88,6 +88,11 @@
   text-decoration: none;
 }
 
+.footercontact .link:hover,
+.footercontact .phone:hover {
+  color: var(--accent-color);
+}
+
 /* Стили для index.html */
 
 /* Герой */
